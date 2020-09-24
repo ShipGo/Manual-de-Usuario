@@ -1,0 +1,9 @@
+site_name: Manual de Usuario - ShipGo!
+theme:
+  name: material
+  favicon: https://i.imgur.com/DCTe6To.png
+  palette:
+    primary: teal
+  font:
+    text: Roboto
+  language: es
