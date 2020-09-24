@@ -2,8 +2,20 @@ site_name: Manual de Usuario - ShipGo!
 theme:
   name: material
   favicon: https://i.imgur.com/DCTe6To.png
+  features:
+    - instant
+    - navigation.expand
+    - tabs
   palette:
     primary: teal
   font:
     text: Roboto
   language: es
+
+nav:
+  - Introducción: index.md
+  - Acerca de: acerca-de.md
+  - Sección Web:
+    - Introducción al sistema web: seccion-web/introduccion.md
+  - Sección Mobile:
+    - Introducción al sistema mobile: seccion-mobile/introduccion.md
