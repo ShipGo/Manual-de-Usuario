@@ -6,7 +6,7 @@ Aquí encontrará toda la información necesaria para poder utilizar nuestro sof
 
 ## Secciones
 
-El manual se encuentra dividido en dos secciones: la <b>[sección web](../../seccion-web/introduccion/)</b> y la <b>[mobile](../../seccion-mobile/introduccion/)</b>. En donde se detallan las características propias de cada parte de la aplicación.
+El manual se encuentra dividido en dos secciones: la <b>[sección web](../manual-de-usuario/seccion-web/introduccion/)</b> y la <b>[mobile](../manual-de-usuario/seccion-mobile/introduccion/)</b>. En donde se detallan las características propias de cada parte de la aplicación.
 
 Además, podrá utilizar la función de búsqueda, ubicada en la **esquina superior derecha** de la pantalla, que le permitirá encontrar lo que está buscando de una forma más rápida y precisa.
 
