@@ -1,3 +1,5 @@
+# Acerca del manual
+
 El presente manual de usuario es generado con la intencion de ayudar a las personas que comiencen utilizar el sistema **ShipGo!** *(tanto en su parte web como mobile)* para que tengan la mejor experiencia con el software.
 
 ## Nosotros

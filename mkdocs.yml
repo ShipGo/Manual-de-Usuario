@@ -1,16 +1,26 @@
-site_name: Manual de Usuario - ShipGo!
+site_name: ShipGo! - Manual de Usuario
 theme:
   name: material
   favicon: https://i.imgur.com/DCTe6To.png
+  icon:
+    logo: material/truck
+  palette:
+    scheme: shipgo
   features:
+    - search.highlight
     - instant
     - navigation.expand
     - tabs
-  palette:
-    primary: teal
   font:
     text: Roboto
   language: es
+plugins:
+  - search:
+      lang: es
+markdown_extensions:
+  - attr_list
+extra_css:
+  - stylesheets/extra.css
 
 nav:
   - Introducción: index.md

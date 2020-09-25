@@ -1,11 +1,19 @@
+![Logo](https://i.imgur.com/DCTe6To.png){: width=20%; }
+
 Le damos la bienvenida al manual de usuario del sistema **ShipGo!**
 
-Aquí encontrará toda la información necesaria para utilizar nuestro software de la mejor manera.
+Aquí encontrará toda la información necesaria para poder utilizar nuestro software de la mejor manera y así obtener una experiencia de usuario satisfactoria, a la vez que mejora la productividad de su empresa.
 
-## Glosario
+## Secciones
 
-### Administrador
+El manual se encuentra dividido en dos secciones: la **sección web** y la **mobile**. En donde se detallan las características propias de cada parte de la aplicación.
 
-Si usted está utilizando la plataforma web, significa que fue asignado con el rol de **Administrador**. Será el encargado de registrar pedidos, viajes y asignar choferes para que lleven esos pedidos a sus destinos.
+Además, podrá utilizar la función de búsqueda, ubicada en la **esquina superior derecha** de la pantalla, que le permitirá encontrar lo que está buscando de una forma más rápida y precisa.
 
+## No dudes en consultar
 
+Ante cualquier duda que surja sobre este manual o el sistema, no dudes en escribirnos al siguiente email: [atención@shipgo.com](mailto:atención@shipgo.com). Responderemos tus dudas a la brevedad.
+
+Esperamos que se sienta cómodo y disfrute de este software tanto como nosotros disfrutamos hacerlo.
+
+<p style="text-align: right;"><em> Hecho con </em> ❤️ <em> por el equipo de <b>ShipGo!</b> </em></p>
