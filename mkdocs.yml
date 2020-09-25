@@ -11,6 +11,7 @@ theme:
     - instant
     - navigation.expand
     - tabs
+    - toc.autohide
   font:
     text: Roboto
   language: es

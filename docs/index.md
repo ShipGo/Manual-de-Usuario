@@ -6,13 +6,13 @@ Aquí encontrará toda la información necesaria para poder utilizar nuestro sof
 
 ## Secciones
 
-El manual se encuentra dividido en dos secciones: la **sección web** y la **mobile**. En donde se detallan las características propias de cada parte de la aplicación.
+El manual se encuentra dividido en dos secciones: la <b>[sección web](../../seccion-web/introduccion/)</b> y la <b>[mobile](../../seccion-mobile/introduccion/)</b>. En donde se detallan las características propias de cada parte de la aplicación.
 
 Además, podrá utilizar la función de búsqueda, ubicada en la **esquina superior derecha** de la pantalla, que le permitirá encontrar lo que está buscando de una forma más rápida y precisa.
 
 ## No dudes en consultar
 
-Ante cualquier duda que surja sobre este manual o el sistema, no dudes en escribirnos al siguiente email: [atención@shipgo.com](mailto:atención@shipgo.com). Responderemos tus dudas a la brevedad.
+Ante cualquier duda que surja sobre este manual o el sistema, no dudes en escribirnos al siguiente email: <b>[atención@shipgo.com](mailto:atención@shipgo.com)</b>. Responderemos tus dudas a la brevedad.
 
 Esperamos que se sienta cómodo y disfrute de este software tanto como nosotros disfrutamos hacerlo.
 
