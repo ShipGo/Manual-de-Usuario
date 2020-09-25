@@ -16,4 +16,4 @@ Ante cualquier duda que surja sobre este manual o el sistema, no dudes en escrib
 
 Esperamos que se sienta cómodo y disfrute de este software tanto como nosotros disfrutamos hacerlo.
 
-<p style="text-align: right;"><em> Hecho con </em> ❤️ <em> por el equipo de <b>ShipGo!</b> </em></p>
+<p style="text-align: right; font-size: large;"><em> Hecho con </em> ❤️ <em> por el equipo de <b>ShipGo!</b> </em></p>
