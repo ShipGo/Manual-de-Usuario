@@ -1,1 +1,19 @@
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Maecenas interdum arcu ac mauris porta, id pharetra ligula varius. Nam eu lobortis nunc. Pellentesque habitant morbi tristique senectus et netus et malesuada fames ac turpis egestas. Nunc eu ullamcorper risus, nec sollicitudin nisi. In elementum vehicula ipsum a vestibulum. Aenean lacinia eros at vehicula sagittis. Fusce sapien nunc, vehicula at ultrices eu, finibus consectetur magna. Fusce tempor libero risus. Pellentesque quis volutpat sapien. Praesent non rhoncus nisi. Nulla eu malesuada mauris, at vulputate est. Integer eu pulvinar mauris. Nulla laoreet lorem elit. Etiam tristique porta tempus. Pellentesque ullamcorper sem non erat pulvinar, eu hendrerit diam bibendum.
+# ¡Bienvenido!
+
+Si estás viendo esta sección es porque te encuentras logueado con el rol de Carga o Chofer del sistema ShipGo!. Aquí podrás consultar las diferentes funciones que la sección mobile puede ofrecerte. Esta es la pantalla de inicio de sesión:
+
+![Foto 1 Mobile](https://i.imgur.com/Pm99sOC.png)
+
+Para que un usuario pueda acceder, debe contar con un usuario y contraseña, luego de esto dependiendo del rol, se concederán diferentes permisos para realizar distintas tareas. 
+
+![Foto 2 Mobile](https://i.imgur.com/vJyTqq7.png)
+
+# Funciones de los Roles
+
+## Chofer
+
+- **“Mi Perfil”:** El usuario logueado podrá consultar sus datos en la sección de “Mi perfil” y en caso de ser necesario, modificarlos.
+
+## Carga:
+
+- **“Mi Perfil”:** ídem al Rol Chofer.
