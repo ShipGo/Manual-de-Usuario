@@ -4,7 +4,7 @@ Si estás viendo esta sección es porque te encuentras logueado con el rol de **
 
 <figure>
     <a href="https://i.imgur.com/rsbXD57.png" target="_blank">
-        <img src="https://i.imgur.com/rsbXD57.png" width="600"/>
+        <img src="https://i.imgur.com/zDPGtcF.png" width="600"/>
     </a>
     <figcaption>Pantalla de login</figcaption>
 </figure>
@@ -14,7 +14,7 @@ En la **sección izquierda de la pantalla** se encuentra un **menú desplegable*
 
 <figure>
     <a href="https://i.imgur.com/XGeudrF.png" target="_blank">
-        <img src="https://i.imgur.com/XGeudrF.png" width="600"/>
+        <img src="https://i.imgur.com/4srEPv9.png" width="600"/>
     </a>
     <figcaption>Pantalla principal</figcaption>
 </figure>

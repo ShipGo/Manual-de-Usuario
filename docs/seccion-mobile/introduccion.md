@@ -4,7 +4,7 @@ Si estás viendo esta sección es porque te encuentras logueado con el rol de **
 
 <figure>
     <a href="https://i.imgur.com/Pm99sOC.png" target="_blank">
-        <img src="https://i.imgur.com/Pm99sOC.png" height="600"/>
+        <img src="https://i.imgur.com/lKvLAmM.png" height="600"/>
     </a>
     <figcaption>Pantalla de login</figcaption>
 </figure>
@@ -13,7 +13,7 @@ Para que un usuario pueda acceder, debe contar con un usuario y contraseña, lue
 
 <figure>
     <a href="https://i.imgur.com/vJyTqq7.png" target="_blank">
-        <img src="https://i.imgur.com/vJyTqq7.png" height="600"/>
+        <img src="https://i.imgur.com/hxPv2rC.png" height="600"/>
     </a>
     <figcaption>Pantalla de configuración</figcaption>
 </figure>
