@@ -1,19 +1,33 @@
-# ¡Bienvenido!
+## Bienvenido
 
-Si estás viendo esta sección es porque te encuentras logueado con el rol de Carga o Chofer del sistema ShipGo!. Aquí podrás consultar las diferentes funciones que la sección mobile puede ofrecerte. Esta es la pantalla de inicio de sesión:
+Si estás viendo esta sección es porque te encuentras logueado con el rol de **Carga** o **Chofer** del sistema **ShipGo!**. Aquí podrás consultar las diferentes funciones que la **sección mobile** puede ofrecerte. Esta es la pantalla de inicio de sesión:
 
-![Foto 1 Mobile](https://i.imgur.com/Pm99sOC.png)
+<figure>
+    <a href="https://i.imgur.com/Pm99sOC.png" target="_blank">
+        <img src="https://i.imgur.com/Pm99sOC.png" height="600"/>
+    </a>
+    <figcaption>Pantalla de login</figcaption>
+</figure>
 
 Para que un usuario pueda acceder, debe contar con un usuario y contraseña, luego de esto dependiendo del rol, se concederán diferentes permisos para realizar distintas tareas. 
 
-![Foto 2 Mobile](https://i.imgur.com/vJyTqq7.png)
+<figure>
+    <a href="https://i.imgur.com/vJyTqq7.png" target="_blank">
+        <img src="https://i.imgur.com/vJyTqq7.png" height="600"/>
+    </a>
+    <figcaption>Pantalla de configuración</figcaption>
+</figure>
 
-# Funciones de los Roles
+## Partes de la pantalla
 
-## Chofer
+Como se puede observar, la pantalla cuanta con diferentes partes que le permitirán acceder a las distintas funcionalidades. Comencemos primero por diferenciarlas, usted podrá encontrar:
+
+## Funciones de los Roles
+
+### Chofer
 
 - **“Mi Perfil”:** El usuario logueado podrá consultar sus datos en la sección de “Mi perfil” y en caso de ser necesario, modificarlos.
 
-## Carga:
+### Carga
 
 - **“Mi Perfil”:** ídem al Rol Chofer.
