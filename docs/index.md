@@ -1,5 +1,7 @@
 ![Logo](https://i.imgur.com/DCTe6To.png){: width=20%; }
 
+## Bienvenido
+
 Le damos la bienvenida al manual de usuario del sistema **ShipGo!**
 
 Aquí encontrará toda la información necesaria para poder utilizar nuestro software de la mejor manera y así obtener una experiencia de usuario satisfactoria, a la vez que mejora la productividad de su empresa.
@@ -10,7 +12,7 @@ El manual se encuentra dividido en dos secciones: la <b>[sección web](../manual
 
 Además, podrá utilizar la función de búsqueda, ubicada en la **esquina superior derecha** de la pantalla, que le permitirá encontrar lo que está buscando de una forma más rápida y precisa.
 
-## No dudes en consultar
+## Consultas
 
 Ante cualquier duda que surja sobre este manual o el sistema, no dudes en escribirnos al siguiente email: <b>[atención@shipgo.com](mailto:atención@shipgo.com)</b>. Responderemos tus dudas a la brevedad.
 
