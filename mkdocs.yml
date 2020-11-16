@@ -28,5 +28,11 @@ nav:
   - Acerca de: acerca-de.md
   - Sección Web:
     - Introducción al sistema web: seccion-web/introduccion.md
+    - Iniciando Sesión: seccion-web/inicio-sesion.md
   - Sección Mobile:
     - Introducción al sistema mobile: seccion-mobile/introduccion.md
+    - Pantalla de Bienvenida: seccion-mobile/pantalla-bienvenida.md
+    - Mapa: seccion-mobile/pantalla-principal.md
+    - Viaje: seccion-mobile/pantalla-viaje.md
+    - Actividades: seccion-mobile/pantalla-actividades.md
+    - Configuración: seccion-mobile/pantalla-configuracion.md
