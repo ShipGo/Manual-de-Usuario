@@ -29,6 +29,8 @@ nav:
   - Sección Web:
     - Introducción al sistema web: seccion-web/introduccion.md
     - Iniciando Sesión: seccion-web/inicio-sesion.md
+    - ALGO: seccion-web/barra-acciones.md
+    - ALGOx2: seccion-web/menu-cuenta.md
   - Sección Mobile:
     - Introducción al sistema mobile: seccion-mobile/introduccion.md
     - Pantalla de Bienvenida: seccion-mobile/pantalla-bienvenida.md

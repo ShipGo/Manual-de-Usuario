@@ -4,7 +4,7 @@ En la configuración podemos encontrar las opciones de *“Mi Perfil”*, *“Ac
 
 <figure>
     <a href="https://i.imgur.com/Cp4e4i5.png" target="_blank">
-        <img src="https://i.imgur.com/Cp4e4i5.png" width="600"/>
+        <img src="https://i.imgur.com/Cp4e4i5.png" height="600"/>
     </a>
     <figcaption>Pantalla de Configuración</figcaption>
 </figure>
@@ -15,14 +15,14 @@ En la primera opción, de *“Mi Perfil”* se puede visualizar los datos del ch
 
 <figure>
     <a href="https://i.imgur.com/FnGs4zb.png" target="_blank">
-        <img src="https://i.imgur.com/FnGs4zb.png" width="600"/>
+        <img src="https://i.imgur.com/FnGs4zb.png" height="600"/>
     </a>
     <figcaption>Pantalla de Mi Perfil</figcaption>
 </figure>
 
 <figure>
     <a href="https://i.imgur.com/NB9jAtl.png" target="_blank">
-        <img src="https://i.imgur.com/NB9jAtl.png" width="600"/>
+        <img src="https://i.imgur.com/NB9jAtl.png" height="600"/>
     </a>
     <figcaption>Pantalla de Mi Perfil</figcaption>
 </figure>
@@ -33,7 +33,7 @@ En el botón de *“Cerrar Sesión”* se podrá cerrar la sesión del usuario q
 
 <figure>
     <a href="https://i.imgur.com/1DdlTa4.png" target="_blank">
-        <img src="https://i.imgur.com/1DdlTa4.png" width="600"/>
+        <img src="https://i.imgur.com/1DdlTa4.png" height="600"/>
     </a>
     <figcaption>Pantalla de Cerrar Sesión</figcaption>
 </figure>

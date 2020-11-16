@@ -4,14 +4,14 @@ Al pulsar el botón intermedio de la barra inferior, el usuario podrá acceder a
 
 <figure>
     <a href="https://i.imgur.com/Gt8HTLo.png" target="_blank">
-        <img src="https://i.imgur.com/Gt8HTLo.png" width="600"/>
+        <img src="https://i.imgur.com/Gt8HTLo.png" height="600"/>
     </a>
     <figcaption>Botón del Itinerario </figcaption>
 </figure>
 
 <figure>
     <a href="https://i.imgur.com/2ZWKjtK.png" target="_blank">
-        <img src="https://i.imgur.com/2ZWKjtK.png" width="600"/>
+        <img src="https://i.imgur.com/2ZWKjtK.png" height="600"/>
     </a>
     <figcaption>Botón del Itinerario </figcaption>
 </figure>
@@ -20,14 +20,14 @@ Si se desea revisar el itinerario de viaje, basta con clickear en la opción cor
 
 <figure>
     <a href="https://i.imgur.com/I57NzFo.png" target="_blank">
-        <img src="https://i.imgur.com/I57NzFo.png" width="600"/>
+        <img src="https://i.imgur.com/I57NzFo.png" height="600"/>
     </a>
     <figcaption>Botón del Itinerario </figcaption>
 </figure>
 
 <figure>
     <a href="https://i.imgur.com/S5dVRqf.png" target="_blank">
-        <img src="https://i.imgur.com/S5dVRqf.png" width="600"/>
+        <img src="https://i.imgur.com/S5dVRqf.png" height="600"/>
     </a>
     <figcaption>Botón del Itinerario </figcaption>
 </figure>

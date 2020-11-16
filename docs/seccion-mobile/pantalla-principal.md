@@ -4,7 +4,7 @@ En la pantalla de inicio de la aplicación se visualizan diferentes opciones, en
 
 <figure>
     <a href="https://i.imgur.com/UCz9AO1.png" target="_blank">
-        <img src="https://i.imgur.com/UCz9AO1.png" width="600"/>
+        <img src="https://i.imgur.com/UCz9AO1.png" height="600"/>
     </a>
     <figcaption>Pantalla Principal</figcaption>
 </figure>
@@ -15,7 +15,7 @@ Una de las funcionalidades más importantes en cuanto a seguridad de los conduct
 
 <figure>
     <a href="https://i.imgur.com/r6RO9qR.png" target="_blank">
-        <img src="https://i.imgur.com/r6RO9qR.png" width="600"/>
+        <img src="https://i.imgur.com/r6RO9qR.png" height="600"/>
     </a>
     <figcaption>Pantalla Botón Pánico</figcaption>
 </figure>

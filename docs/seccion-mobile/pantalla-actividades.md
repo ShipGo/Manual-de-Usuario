@@ -4,21 +4,21 @@ En la barra superior, se puede observar el ícono de una campana. Allí se exhib
 
 <figure>
     <a href="https://i.imgur.com/R76yaue.png" target="_blank">
-        <img src="https://i.imgur.com/R76yaue.png" width="600"/>
+        <img src="https://i.imgur.com/R76yaue.png" height="600"/>
     </a>
     <figcaption>Pantalla de Notificación</figcaption>
 </figure>
 
 <figure>
     <a href="https://i.imgur.com/6aaxFFg.png" target="_blank">
-        <img src="https://i.imgur.com/6aaxFFg.png" width="600"/>
+        <img src="https://i.imgur.com/6aaxFFg.png" height="600"/>
     </a>
     <figcaption>Pantalla de Notificación</figcaption>
 </figure>
 
 <figure>
     <a href="https://i.imgur.com/NmyECvp.png" target="_blank">
-        <img src="https://i.imgur.com/NmyECvp.png" width="600"/>
+        <img src="https://i.imgur.com/NmyECvp.png" height="600"/>
     </a>
     <figcaption>Pantalla de Notificación</figcaption>
 </figure>

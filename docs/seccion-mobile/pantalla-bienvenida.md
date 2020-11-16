@@ -4,28 +4,28 @@ Luego de haber ingresado con el usuario y la contraseña que se le ha asignado a
 
 <figure>
     <a href="https://i.imgur.com/IPmmW5o.png" target="_blank">
-        <img src="https://i.imgur.com/IPmmW5o.png" width="600"/>
+        <img src="https://i.imgur.com/IPmmW5o.png" height="600"/>
     </a>
     <figcaption>Pantalla de Bienvenida</figcaption>
 </figure>
 
 <figure>
     <a href="https://i.imgur.com/8zM0IpQ.png" target="_blank">
-        <img src="https://i.imgur.com/8zM0IpQ.png" width="600"/>
+        <img src="https://i.imgur.com/8zM0IpQ.png" height="600"/>
     </a>
     <figcaption>Pantalla de Bienvenida</figcaption>
 </figure>
 
 <figure>
     <a href="https://i.imgur.com/8rBZ6gZ.png" target="_blank">
-        <img src="https://i.imgur.com/8rBZ6gZ.png" width="600"/>
+        <img src="https://i.imgur.com/8rBZ6gZ.png" height="600"/>
     </a>
     <figcaption>Pantalla de Bienvenida</figcaption>
 </figure>
 
 <figure>
     <a href="https://i.imgur.com/62k0mdF.png" target="_blank">
-        <img src="https://i.imgur.com/62k0mdF.png" width="600"/>
+        <img src="https://i.imgur.com/62k0mdF.png" height="600"/>
     </a>
     <figcaption>Pantalla de Bienvenida</figcaption>
 </figure>
