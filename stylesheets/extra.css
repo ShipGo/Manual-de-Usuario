@@ -2,8 +2,13 @@ p {
   text-align: justify;
 }
 
-[data-md-color-scheme="shipgo"] {
-    --md-primary-fg-color:      #004D40;
+/* h1,h2,h3,h4,h5 {
+  font-weight: bolder;
+} */
 
-  --md-accent-fg-color:                #004D40;
+
+
+[data-md-color-scheme="shipgo"] {
+    --md-primary-fg-color: #004D40;
+    --md-accent-fg-color: #004D40;
 }
