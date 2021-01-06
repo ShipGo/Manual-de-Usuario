@@ -13,7 +13,7 @@ Al pulsar el botón intermedio de la barra inferior, el usuario podrá acceder a
     <a href="https://i.imgur.com/2ZWKjtK.png" target="_blank">
         <img src="https://i.imgur.com/2ZWKjtK.png" height="600"/>
     </a>
-    <figcaption>Botón del Itinerario </figcaption>
+    <figcaption>Botón del Itinerario</figcaption>
 </figure>
 
 Si se desea revisar el itinerario de viaje, basta con clickear en la opción correspondiente. Se mostrará una primera sección con el tiempo y la distancia estimada que resta para finalizar el viaje.A continuación, se observa el detalle del itinerario del viaje, especificando su origen y final, y cada uno de los detalles intermedios, con su dirección y el estado de cada una.
@@ -22,7 +22,7 @@ Si se desea revisar el itinerario de viaje, basta con clickear en la opción cor
     <a href="https://i.imgur.com/I57NzFo.png" target="_blank">
         <img src="https://i.imgur.com/I57NzFo.png" height="600"/>
     </a>
-    <figcaption>Botón del Itinerario </figcaption>
+    <figcaption>Botón del Itinerario</figcaption>
 </figure>
 
 <figure>

@@ -27,14 +27,27 @@ nav:
   - Introducción: index.md
   - Acerca de: acerca-de.md
   - Sección Web:
-    - Introducción al sistema web: seccion-web/introduccion.md
+    - Introducción: seccion-web/introduccion.md
     - Iniciando Sesión: seccion-web/inicio-sesion.md
-    - ALGO: seccion-web/barra-acciones.md
-    - ALGOx2: seccion-web/menu-cuenta.md
+    - Perfíl: seccion-web/menu-cuenta.md
+    - Barra de Acciones: 
+      - Descripción: seccion-web/barra-acciones/barra-acciones.md
+      - Menús:
+        - Dashboard: seccion-web/barra-acciones/menus/dashboard.md
+        - Viaje: seccion-web/barra-acciones/menus/viaje.md
+        - Envío: seccion-web/barra-acciones/menus/envio.md
+        - Usuario: seccion-web/barra-acciones/menus/usuario.md
+        - Categorías: seccion-web/barra-acciones/menus/categorias.md
+        - Mantenimiento: seccion-web/barra-acciones/menus/mantenimiento.md
+        - Sucursal: seccion-web/barra-acciones/menus/sucursal.md
+        - Vehículo: seccion-web/barra-acciones/menus/vehiculo.md
+        - Marca: seccion-web/barra-acciones/menus/marca.md
+        - Modelo: seccion-web/barra-acciones/menus/modelo.md
   - Sección Mobile:
-    - Introducción al sistema mobile: seccion-mobile/introduccion.md
-    - Pantalla de Bienvenida: seccion-mobile/pantalla-bienvenida.md
-    - Mapa: seccion-mobile/pantalla-principal.md
-    - Viaje: seccion-mobile/pantalla-viaje.md
-    - Actividades: seccion-mobile/pantalla-actividades.md
-    - Configuración: seccion-mobile/pantalla-configuracion.md
+    - Introducción: seccion-mobile/introduccion.md
+    - Pantallas:
+      - Bienvenida: seccion-mobile/pantallas/bienvenida.md
+      - Mapa: seccion-mobile/pantallas/principal.md
+      - Viaje: seccion-mobile/pantallas/viaje.md
+      - Actividades: seccion-mobile/pantallas/actividades.md
+      - Configuración: seccion-mobile/pantallas/configuracion.md
