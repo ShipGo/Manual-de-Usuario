@@ -7,9 +7,12 @@ theme:
   palette:
     scheme: shipgo
   features:
+    - navigation.tabs
+    - navigation.tabs.sticky
+    - navigation.sections
+    - navigation.expand
     - search.highlight
     - instant
-    - navigation.expand
     - tabs
     - toc.autohide
   font:
