@@ -20,6 +20,15 @@ plugins:
       lang: es
 markdown_extensions:
   - attr_list
+  - admonition
+  - pymdownx.superfences:
+      custom_fences:
+        - name: mermaid
+          class: mermaid-experimental
+          format: !!python/name:pymdownx.superfences.fence_code_format
+  - pymdownx.emoji:
+      emoji_index: !!python/name:materialx.emoji.twemoji
+      emoji_generator: !!python/name:materialx.emoji.to_svg
 extra_css:
   - stylesheets/extra.css
 
@@ -29,7 +38,7 @@ nav:
   - Sección Web:
     - Introducción: seccion-web/introduccion.md
     - Iniciando Sesión: seccion-web/inicio-sesion.md
-    - Perfíl: seccion-web/menu-cuenta.md
+    - Menú de Cuenta: seccion-web/menu-cuenta.md
     - Barra de Acciones: 
       - Descripción: seccion-web/barra-acciones/barra-acciones.md
       - Menús:
@@ -45,9 +54,9 @@ nav:
         - Modelo: seccion-web/barra-acciones/menus/modelo.md
   - Sección Mobile:
     - Introducción: seccion-mobile/introduccion.md
-    - Pantallas:
-      - Bienvenida: seccion-mobile/pantallas/bienvenida.md
-      - Mapa: seccion-mobile/pantallas/principal.md
-      - Viaje: seccion-mobile/pantallas/viaje.md
-      - Actividades: seccion-mobile/pantallas/actividades.md
-      - Configuración: seccion-mobile/pantallas/configuracion.md
+    - Menús:
+      - Bienvenida: seccion-mobile/menus/bienvenida.md
+      - Mapa: seccion-mobile/menus/principal.md
+      - Viaje: seccion-mobile/menus/viaje.md
+      - Actividades: seccion-mobile/menus/actividades.md
+      - Configuración: seccion-mobile/menus/configuracion.md

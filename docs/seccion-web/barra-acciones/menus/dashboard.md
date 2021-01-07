@@ -1,1 +1,3 @@
+## ¿Para qué sirve?
+
 Para **super usuarios** y **administradores** del sistema, es una página que proporciona informes y estadísticas de la empresa, en distintos formatos de visualización.

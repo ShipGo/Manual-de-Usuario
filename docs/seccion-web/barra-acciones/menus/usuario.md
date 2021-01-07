@@ -1,4 +1,10 @@
-Desde la aplicación web, donde pueden ingresar sólo administradores y superusuarios, se pueden ver todos los usuarios que tiene el sistema, tanto en su aplicación web, como en la aplicación móvil. Desde la barra de acciones, se puede acceder a la sección **Usuarios**.
+## ¿Para qué sirve?
+
+Desde la aplicación web, donde pueden ingresar los usuarios **administradores** y **super usuarios**, se puede consultar todos los usuarios registrados en el sistema, tanto en su aplicación web, como en la aplicación móvil. 
+
+## ¿Cómo ingresar?
+
+Desde la barra de acciones, se puede acceder a la sección **Usuarios**.
 
 Aquí se detalla en formato de tabla, o en formato de tarjeta si se modifica mediante la opción **Alternar Vista**, el listado de todos los usuarios. Para cada uno de ellos, el sistema ofrece los siguientes datos: Foto de perfil, el nombre de usuario (por defecto es la primera letra de su nombre en mayúsculas, seguido de su apellido en minúsculas), nombre y apellido de la persona, el rol que posee y su correo electrónico. Como siempre, se pueden editar y eliminar cualquiera de esos datos simplemente seleccionando los botones correspondientes.
 
@@ -8,14 +14,14 @@ Los datos que el sistema muestra, están paginados, y se ofrece un campo de bús
     <a href="https://i.imgur.com/nH5ti5U.png" target="_blank">
         <img src="https://i.imgur.com/nH5ti5U.png" width="600"/>
     </a>
-    <figcaption>Pantalla de Consultar Usuario</figcaption>
+    <figcaption>Consultando los usuarios registrados</figcaption>
 </figure>
 
-Si lo que se desea es generar un nuevo usuario en el sistema, esto puede realizarse clickeando el botón **Registrar Usuario**. Esto conlleva el mismo funcionamiento que las opciones de **Registrar** que se desarrollaron anteriormente.
+Si lo que se desea es generar un nuevo usuario en el sistema, esto puede realizarse clickeando el botón **Registrar Usuario**.
 
 <figure>
     <a href="https://i.imgur.com/FBXUErW.png" target="_blank">
         <img src="https://i.imgur.com/FBXUErW.png" width="600"/>
     </a>
-    <figcaption>Pantalla de Registrar Usuario</figcaption>
+    <figcaption>Registrando un nuevo usuario</figcaption>
 </figure>
