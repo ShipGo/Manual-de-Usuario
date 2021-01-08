@@ -1,6 +1,6 @@
 ## Bienvenido
 
-Si estás viendo esta sección es porque te encuentras logueado con el rol de **Carga** o **Chofer** del sistema **ShipGo!**. Aquí podrás consultar las diferentes funciones que la **sección mobile** puede ofrecerte. Esta es la pantalla de inicio de sesión:
+Si estás viendo esta sección es porque te encuentras logueado con el rol de **Carga** o **Chofer** del sistema **ShipGo!** Aquí podrás consultar las diferentes funciones que la **sección mobile** puede ofrecerte. Esta es la pantalla de inicio de sesión:
 
 <figure>
     <a href="https://i.imgur.com/Pm99sOC.png" target="_blank">
@@ -18,7 +18,7 @@ Para que un usuario pueda acceder, debe contar con un usuario y contraseña, lue
     <figcaption>Configuración de la aplicación</figcaption>
 </figure>
 
-## Partes de la pantalla
+<!-- ## Partes de la pantalla
 
 Como se puede observar, la pantalla cuanta con diferentes partes que le permitirán acceder a las distintas funcionalidades. Comencemos primero por diferenciarlas, usted podrá encontrar:
 
@@ -30,4 +30,4 @@ Como se puede observar, la pantalla cuanta con diferentes partes que le permitir
 
 ### Carga
 
-- **“Mi Perfil”:** ídem al Rol Chofer.
+- **“Mi Perfil”:** ídem al Rol Chofer. -->

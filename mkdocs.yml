@@ -9,7 +9,7 @@ theme:
   features:
     - navigation.tabs
     - navigation.tabs.sticky
-    - navigation.sections
+    # - navigation.sections
     - navigation.expand
     - search.highlight
     - instant
@@ -37,7 +37,6 @@ extra_css:
 
 nav:
   - Introducción: index.md
-  - Acerca de: acerca-de.md
   - Sección Web:
     - Introducción: seccion-web/introduccion.md
     - Iniciando Sesión: seccion-web/inicio-sesion.md
@@ -59,7 +58,8 @@ nav:
     - Introducción: seccion-mobile/introduccion.md
     - Menús:
       - Bienvenida: seccion-mobile/menus/bienvenida.md
-      - Mapa: seccion-mobile/menus/principal.md
+      - Mapa: seccion-mobile/menus/mapa.md
       - Viaje: seccion-mobile/menus/viaje.md
       - Actividades: seccion-mobile/menus/actividades.md
       - Configuración: seccion-mobile/menus/configuracion.md
+  - Acerca de: acerca-de.md

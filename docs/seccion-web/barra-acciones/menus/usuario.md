@@ -6,9 +6,22 @@ Desde la aplicación web, donde pueden ingresar los usuarios **administradores**
 
 Desde la barra de acciones, se puede acceder a la sección **Usuarios**.
 
-Aquí se detalla en formato de tabla, o en formato de tarjeta si se modifica mediante la opción **Alternar Vista**, el listado de todos los usuarios. Para cada uno de ellos, el sistema ofrece los siguientes datos: Foto de perfil, el nombre de usuario (por defecto es la primera letra de su nombre en mayúsculas, seguido de su apellido en minúsculas), nombre y apellido de la persona, el rol que posee y su correo electrónico. Como siempre, se pueden editar y eliminar cualquiera de esos datos simplemente seleccionando los botones correspondientes.
+Aquí se detalla en formato de tabla, o en formato de tarjeta si se modifica mediante la opción **Alternar Vista**, el listado de todos los usuarios.
 
-Los datos que el sistema muestra, están paginados, y se ofrece un campo de búsqueda desde el sector superior de la pantalla, pudiendo hacer uso de alguno de los filtros ofrecidos: nombre, apellido, sucursal, rol, provincia y localidad en caso de ser superusuario. Si quien realiza la búsqueda, tiene rol de administrador, sólo tendrá a su disposición los siguientes filtros: nombre, apellido y rol.
+!!! info "Formato de la tabla"
+    Para cada usuario, el sistema ofrece los siguientes datos: 
+
+    * Foto de perfil.
+    * Nombre de usuario.
+    * Nombre y Apellido de la persona.
+    * Rol dentro del sistema.
+    * Correo electrónico. 
+
+    Por defecto, el **nombre de usuario** es la primera letra de su nombre en mayúsculas, seguido de su apellido en minúsculas.
+
+Como siempre, se pueden editar y eliminar cualquiera de esos datos simplemente seleccionando los botones correspondientes.
+
+<!-- Los datos que el sistema muestra, están paginados, y se ofrece un campo de búsqueda desde el sector superior de la pantalla, pudiendo hacer uso de alguno de los filtros ofrecidos: nombre, apellido, sucursal, rol, provincia y localidad en caso de ser superusuario. Si quien realiza la búsqueda, tiene rol de administrador, sólo tendrá a su disposición los siguientes filtros: nombre, apellido y rol. -->
 
 <figure>
     <a href="https://i.imgur.com/nH5ti5U.png" target="_blank">

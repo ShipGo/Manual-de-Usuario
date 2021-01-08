@@ -12,7 +12,7 @@ Al seleccionar esa opción, se desplegará una ventana emergente que estará con
 
 Cada una de las cuales deberá ser completada de manera correcta **para poder generar un nuevo viaje**. Cada vez que se complete una de ellas, se habilitará el botón de **Siguiente** ubicado en la esquina inferior derecha de la ventana.
 
-## Pestañas
+## ¿Cómo registrar un nuevo viaje?
 
 ### 1. Fechas y Vehículos
 
@@ -54,7 +54,7 @@ En la pestaña **“Paquetes”**, el usuario puede seleccionar qué mercancías
     * Para **quitar a todos los paquetes** agregados, se deberá utilizar el botón **"<<"**.
 
 !!! info "Peso de los paquetes del camión"
-    A medida que se van agregando paquetes, el sistema irá calculando el peso total de los envíos. Si se detecta que el peso total de los paquetes seleccionados es mayor que el peso máximo que puede trasladar el camión elegido en el paso anterior, se mostrará un aviso informando de esta situación.
+    A medida que se van agregando paquetes, **el sistema irá calculando el peso total de los envíos**. Si se detecta que el peso total de los paquetes seleccionados es mayor que el peso máximo que puede trasladar el camión elegido en el paso anterior, se mostrará un aviso informando de esta situación.
 
 Si el peso es aceptable, se podrá proceder a la siguiente pestaña pulsando el botón **Siguiente**.
 
@@ -87,15 +87,15 @@ Dentro de la pestaña de **"Chofer"**, el usuario podrá **seleccionar choferes*
 
 !!! done "Agregando choferes"
 
-    * Para poder seleccionarlos de manera individual, el usuario debe seleccionar su nombre y luego hacer click en el botón **">"**. 
+    * Para poder **seleccionarlos de manera individual**, el usuario debe seleccionar su nombre y luego hacer click en el botón **">"**. 
 
-    * Para poder seleccionar a todos los choferes que se encuentran registrados, el usuario debe seleccionar únicamente el botón **">>"**. Estos serán mostrados en la mitad derecha de la pantalla. 
+    * Para poder **seleccionar a todos** los choferes que se encuentran registrados, el usuario debe seleccionar únicamente el botón **">>"**. Estos serán mostrados en la mitad derecha de la pantalla. 
 
 !!! fail "Quitando choferes"
 
-    * Para quitar algun chofer del conjunto, se puede hacer de forma sencilla, mediante el botón **"<"**.
+    * Para **quitar un chofer** del conjunto, se puede hacer de forma sencilla, mediante el botón **"<"**.
 
-    * Para quitar a todos los choferes agregados, se deberá utilizar el botón **"<<"**.
+    * Para **quitar a todos los choferes** agregados, se deberá utilizar el botón **"<<"**.
 
 Una vez que se haya decidido el o los choferes deseados, se puede proceder a la última pestaña, a la que se puede acceder clickeando sobre el botón **Siguiente**.
 
